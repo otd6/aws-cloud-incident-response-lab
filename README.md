@@ -26,6 +26,12 @@ Skills Demonstrated
 - Cloud Security
 - Incident Response
 - Threat Hunting
+
+## Full Investigation Report
+
+The complete incident response walkthrough, analysis, findings, and screenshots can be found in:
+
+- AWS_Cloud_Incident_Response_Report.pdf
 - Log Analysis
 - IAM Analysis
 - AWS Security
