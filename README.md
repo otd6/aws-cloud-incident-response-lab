@@ -1,7 +1,3 @@
-## Full Report
-
-[Download the full report](AWS_CloudTrail_Threat_Analysis_Report.pdf)
-
 # aws-cloud-incident-response-lab
 This project documents my completion of the Flaws2 Defender Track, a cloud security incident response and threat hunting lab focused on AWS environments. I created this walkthrough to show the steps, commands, and reasoning I used. This lab demonstrates the various vulnerabilities found within AWS cloud environments and the path that an incident responder would take in investigating.
 
